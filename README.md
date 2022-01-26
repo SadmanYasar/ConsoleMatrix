@@ -1,5 +1,5 @@
-## ConsoleMatrix
-# Visual Basic implementation of showing matrix theme on console
+# ConsoleMatrix
+## Visual Basic implementation of showing matrix theme on console
  
 ### [Source Code](https://github.com/SadmanYasar/ConsoleMatrix/blob/main/ConsoleMatrix/src.vb)
 
